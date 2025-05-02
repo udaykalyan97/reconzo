@@ -14,7 +14,7 @@ A web application that allows users to select an Indian state and fetch detailed
 
 ## 🚀 Live Demo
 
-👉 [Live Website](https://reconzo.vercel.app)
+👉 [Live Website](https://reconzo.netlify.app)
 
 👉 [GitHub Repository](https://github.com/udaykalyan97/reconzo)
 
